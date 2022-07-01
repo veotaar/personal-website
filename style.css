@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #292524;
+  color: #fafaf9;
+}
+
+.container {
+  font-size: 1.2rem;
+  margin-top: 5rem;
+}
